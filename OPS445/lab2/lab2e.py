@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# Author: Prince Adu-Adjei
-# Author ID: 112407226
-# Date Created: 2024/05/22
+# Author: Emmanuel Amo-Ntori
+# Author ID: 113423222
+# Date Created: 2024/10/01
 
 timer = 10
 while timer != 0:
